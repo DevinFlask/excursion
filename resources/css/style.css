@@ -1,27 +1,33 @@
 body {
   background-color: black;
+  font-family: Verdana;
+  text-align: center;
 }
 
 .firstHeading {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
 
 }
 
-.secondHeading {
-
-}
-
-.thirdHeading {
-
+.secondHeading, .thirdHeading {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
 }
 
 #download {
-
+  color: Aquamarine;
+  font-size: 16px;
 }
 
 #information {
-
+  font-size: 21px;
+  color: gray;
 }
 
 #excursion {
-  
+  text-align: right;
+  color: gray;
 }
